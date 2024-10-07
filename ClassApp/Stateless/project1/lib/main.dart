@@ -14,7 +14,7 @@ class MainApp extends StatelessWidget {
       home: Scaffold(
         body: Center(
           child: Text(
-            'Prathmesh',
+            'Sumit',
             style: TextStyle(fontSize: 28),
           ),
         ),

@@ -21,7 +21,8 @@ class MainApp extends StatelessWidget {
               width: 150,
               color: Colors.amber,
             ),
-          )),
+          ),
+          ),
     );
   }
 }
